@@ -1,4 +1,3 @@
-# trip_planner.html
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
